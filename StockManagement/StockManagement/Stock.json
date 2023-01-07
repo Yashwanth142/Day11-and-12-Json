@@ -1,0 +1,50 @@
+﻿{
+  "CommonStocks": [
+    {
+      "sharename": "SBI",
+      "numberOfShare": 100,
+      "sharePrice": 1000
+    },
+    {
+      "sharename": "HDFC",
+      "numberOfShare": 120,
+      "sharePrice": 2400
+    },
+    {
+      "sharename": "ITP",
+      "numberOfShare": 90,
+      "sharePrice": 1500
+    }
+  ],
+
+  "PreferredStocks": [
+    {
+      "sharename": "Mark",
+      "numberOfShare": 10,
+      "sharePrice": 105
+    },
+    {
+      "sharename": "ECL",
+      "numberOfShare": 40,
+      "sharePrice": 210
+    },
+    {
+      "sharename": "FDC",
+      "numberOfShare": 110,
+      "sharePrice": 1700
+    }
+  ],
+
+  "HybridStocks": [
+    {
+      "sharename": "coalindia",
+      "numberOfShare": 70,
+      "sharePrice": 550
+    },
+    {
+      "sharename": "CCL",
+      "numberOfShare": 135,
+      "sharePrice": 800
+    }
+  ]
+}
