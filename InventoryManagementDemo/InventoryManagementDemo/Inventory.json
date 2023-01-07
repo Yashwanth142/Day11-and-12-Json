@@ -1,0 +1,56 @@
+{
+  "TypesOfRice": [
+    {
+      "name": "Rice1",
+      "weight": 12,
+      "price": 240
+
+    },
+    {
+      "name": "Rice2",
+      "weight": 2,
+      "price": 200
+
+    },
+    {
+      "name": "Rice3",
+      "weight": 10,
+      "price": 210
+
+    }
+  ],
+  "TypesOfPulses": [
+    {
+      "name": "Greengram",
+      "weight": 6,
+      "price": 70
+
+    },
+    {
+      "name": "Horsegram",
+      "weight": 2,
+      "price": 40
+
+    }
+  ],
+  "TypesOfWheat": [
+    {
+      "name": "Wheat1",
+      "weight": 3,
+      "price": 24
+
+    },
+    {
+      "name": "Wheat2",
+      "weight": 2,
+      "price": 20
+
+    },
+    {
+      "name": "Wheat3",
+      "weight": 1,
+      "price": 21
+
+    }
+  ]
+}

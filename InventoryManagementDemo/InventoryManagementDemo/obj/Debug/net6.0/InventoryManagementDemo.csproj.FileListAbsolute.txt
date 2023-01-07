@@ -1,0 +1,17 @@
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.csproj.AssemblyReference.cache
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.AssemblyInfoInputs.cache
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.AssemblyInfo.cs
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\bin\Debug\net6.0\InventoryManagementDemo.exe
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\bin\Debug\net6.0\InventoryManagementDemo.deps.json
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\bin\Debug\net6.0\InventoryManagementDemo.runtimeconfig.json
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\bin\Debug\net6.0\InventoryManagementDemo.dll
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\bin\Debug\net6.0\InventoryManagementDemo.pdb
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.csproj.CopyComplete
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.dll
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\refint\InventoryManagementDemo.dll
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.pdb
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\InventoryManagementDemo.genruntimeconfig.cache
+C:\Users\yashw\source\repos\InventoryManagementDemo\InventoryManagementDemo\obj\Debug\net6.0\ref\InventoryManagementDemo.dll
